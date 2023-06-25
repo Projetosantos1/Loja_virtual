@@ -1,2 +1,2 @@
 # Loja_virtual
- https://projetosantos1.github.io/Loja_virtual/
+ https://Projetosantos1.github.io/Loja_virtual/
